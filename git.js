@@ -10,3 +10,5 @@ let x = +prompt("x?");
 let n = +prompt("n?");
 
 alert(pow(x,n));
+
+console.log("TEST TEST TEST");
